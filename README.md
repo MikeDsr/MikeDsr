@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUAA-CS%20%2725-00529B?style=flat-square&logo=beihanguniversity&logoColor=white" alt="BUAA CS" />
-  <img src="https://img.shields.io/github/followers/Dsr061229?label=Followers&style=flat-square&color=238636" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/MikeDsr?label=Followers&style=flat-square&color=238636" alt="Followers" />
 </p>
 
 <!-- 动态打字效果，展示技术标签和身份 -->
@@ -14,9 +14,9 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Beihang University (BUAA), CS '25**
-* 📍 **Beijing / Lanzhou**
-* 🎯 **Game Dev (Canvas), Web Tools, Model Tweaking**
+- 🎓 **Beihang University (BUAA), CS '25**
+- 📍 **Beijing / Lanzhou**
+- 🎯 **Game Dev (Canvas), Web Tools, Model Tweaking**
 
 ---
 
@@ -38,10 +38,10 @@
 
 ### 🕹️ Project
 
-#### 🪨 [Primitive Era · 原始纪元](https://github.com/Dsr061229/PrimitiveEra)
+#### 🪨 [Primitive Era · 原始纪元](https://github.com/MikeDsr/PrimitiveEra)
 > Top-down 2D survival + base defense game (PC/Web). HTML5 Canvas, pure JS.
 
-[🎮 Play Online](https://Dsr061229.github.io/PrimitiveEra/) · [📦 Repo](https://github.com/Dsr061229/PrimitiveEra)
+[🎮 Play Online](https://MikeDsr.github.io/PrimitiveEra/) · [📦 Repo](https://github.com/MikeDsr/PrimitiveEra)
 
 ---
 
@@ -50,16 +50,16 @@
 <!-- 小蛇吃贡献图动画 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dsr061229/Dsr061229/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dsr061229/Dsr061229/output/github-contribution-grid-snake.svg">
-    <img alt="github snake animation" src="https://raw.githubusercontent.com/Dsr061229/Dsr061229/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeDsr/MikeDsr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikeDsr/MikeDsr/output/github-contribution-grid-snake.svg">
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/MikeDsr/MikeDsr/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 <!-- 统计卡片，去边框，增高，居中 -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dsr061229&show_icons=true&theme=radical&locale=cn&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsr061229&layout=compact&theme=radical&locale=cn&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MikeDsr&show_icons=true&theme=radical&locale=cn&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeDsr&layout=compact&theme=radical&locale=cn&hide_border=true" />
 </p>
 
 ---
@@ -67,6 +67,6 @@
 ### 📫 Connect
 
 <p>
-  <a href="https://github.com/Dsr061229"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/MikeDsr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:158486706@qq.com"><img src="https://img.shields.io/badge/Email-158486706%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
