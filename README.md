@@ -15,7 +15,7 @@
 
 ```typescript
 const MikeDsr = {
-  school:   "Beihang University (BUAA), CS '25",
+  school:   "Beihang University (BUAA), CS 2506",
   location: ["Beijing", "Lanzhou"],
   focus:    ["Game Dev (Canvas)", "Web Tools", "Model Tweaking"],
 };
