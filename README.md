@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00529B,100:00F5FF&height=170&section=header&text=MikeDsr&fontSize=64&fontColor=FFFFFF&fontAlignY=32&animation=twinkling&desc=Game%20Dev%20%E2%80%A2%20Web%20Tools%20%E2%80%A2%20Model%20Tweaking&descAlignY=55&descSize=16" alt="header" width="100%" />
   <h1>Hi 👋, I'm MikeDsr</h1>
-  <img src="https://img.shields.io/badge/BUAA-CS%20%2725-00529B?style=for-the-badge&logo=beihanguniversity&logoColor=white&labelColor=0D1117" alt="BUAA CS" />
+  <img src="https://img.shields.io/badge/BUAA-CS%20%272506-00529B?style=for-the-badge&logo=beihanguniversity&logoColor=white&labelColor=0D1117" alt="BUAA CS" />
   <img src="https://img.shields.io/github/followers/MikeDsr?label=Followers&style=for-the-badge&color=00F5FF&logo=github&labelColor=0D1117" alt="Followers" />
   <br />
   <!-- 动态打字效果，展示技术标签和身份 -->
