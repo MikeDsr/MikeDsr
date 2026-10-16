@@ -1,4 +1,4 @@
-                                                                      <h1>Hi 👋, I'm MikeDsr</h1>
+<h1>Hi 👋, I'm MikeDsr</h1>
 
 <h3>👨‍💻 About Me &nbsp;<code>$ whoami</code></h3>
 
