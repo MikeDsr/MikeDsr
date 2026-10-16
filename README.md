@@ -48,12 +48,6 @@ const MikeDsr = {
   </picture>
 </p>
 
-<!-- 统计卡片，去边框，增高，居中 (Tokyo Night 极客暗黑主题) -->
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MikeDsr&show_icons=true&theme=tokyonight&locale=cn&hide_border=true&title_color=00F5FF&icon_color=00F5FF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeDsr&layout=compact&theme=tokyonight&locale=cn&hide_border=true&title_color=00F5FF" />
-</p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 
 <h3>📫 Connect &nbsp;<code>$ ping MikeDsr</code></h3>
