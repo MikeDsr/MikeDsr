@@ -1,12 +1,4 @@
-  <h1>Hi 👋, I'm MikeDsr</h1>
-  <img src="https://img.shields.io/badge/BUAA-CS%20%272506-00529B?style=for-the-badge&logo=beihanguniversity&logoColor=white&labelColor=0D1117" alt="BUAA CS" />
-  <img src="https://img.shields.io/github/followers/MikeDsr?label=Followers&style=for-the-badge&color=00F5FF&logo=github&labelColor=0D1117" alt="Followers" />
-  <br />
-  <!-- 动态打字效果，展示技术标签和身份 -->
-  <a href="https://github.com/MikeDsr"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=40&lines=Game+Developer;Canvas+API+Master;Vibe+Coder;JavaScript+Wizard;Creating+Pixel+Worlds" alt="Typing SVG" /></a>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+                                                                      <h1>Hi 👋, I'm MikeDsr</h1>
 
 <h3>👨‍💻 About Me &nbsp;<code>$ whoami</code></h3>
 
