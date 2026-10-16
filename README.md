@@ -1,6 +1,3 @@
-<!-- ═══════════════ 顶部 Banner + 标题（紧凑） ═══════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00529B,100:00F5FF&height=170&section=header&text=MikeDsr&fontSize=64&fontColor=FFFFFF&fontAlignY=32&animation=twinkling&desc=Game%20Dev%20%E2%80%A2%20Web%20Tools%20%E2%80%A2%20Model%20Tweaking&descAlignY=55&descSize=16" alt="header" width="100%" />
   <h1>Hi 👋, I'm MikeDsr</h1>
   <img src="https://img.shields.io/badge/BUAA-CS%20%272506-00529B?style=for-the-badge&logo=beihanguniversity&logoColor=white&labelColor=0D1117" alt="BUAA CS" />
   <img src="https://img.shields.io/github/followers/MikeDsr?label=Followers&style=for-the-badge&color=00F5FF&logo=github&labelColor=0D1117" alt="Followers" />
@@ -73,6 +70,3 @@ const MikeDsr = {
   <a href="https://github.com/MikeDsr"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" /></a>
   <a href="mailto:158486706@qq.com"><img src="https://img.shields.io/badge/Email-158486706%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
 </div>
-
-<!-- ═══════════════ 底部波浪 ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:00529B,100:0D1117&height=110&section=footer" alt="footer" width="100%" />
