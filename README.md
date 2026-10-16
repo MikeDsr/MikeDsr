@@ -4,7 +4,7 @@
 
 ```typescript
 const MikeDsr = {
-  school:   "Beihang University (BUAA), CS 2506",
+  school:   "Beihang University (BUAA), CS 250606",
   location: ["Beijing", "Lanzhou"],
   focus:    ["Game Dev (Canvas)", "Web Tools", "Model Tweaking"],
 };
