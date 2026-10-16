@@ -37,7 +37,7 @@ const MikeDsr = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 
-<h3>📊 Interaction &amp; Stats &nbsp;<code>$ git log --stats</code></h3>
+<h3>📊 Interaction</h3>
 
 <!-- 小蛇吃贡献图动画 -->
 <p align="center">
