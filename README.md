@@ -12,16 +12,6 @@ const MikeDsr = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 
-<h3>🛠 Tech Stack &nbsp;<code>$ ls ./stack</code></h3>
-
-<div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,cpp,html,css&perline=6&theme=dark" alt="Tech Stack" /></a>
-  <br /><br />
-  <img src="https://img.shields.io/badge/Canvas%20API-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" alt="Canvas API" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-
 <h3>🕹️ Project &nbsp;<code>$ ./run --project</code></h3>
 
 <h4>🪨 <a href="https://github.com/MikeDsr/PrimitiveEra">Primitive Era · 原始纪元</a></h4>
@@ -49,10 +39,3 @@ const MikeDsr = {
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-
-<h3>📫 Connect &nbsp;<code>$ ping MikeDsr</code></h3>
-
-<div align="center">
-  <a href="https://github.com/MikeDsr"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" /></a>
-  <a href="mailto:158486706@qq.com"><img src="https://img.shields.io/badge/Email-158486706%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
-</div>
