@@ -7,6 +7,8 @@ const MikeDsr = {
   school:   "Beihang University (BUAA), CS 250606",
   location: ["Beijing", "Lanzhou"],
   focus:    ["Game Dev (Canvas)", "Web Tools", "Model Tweaking"],
+  website:  https://mikedsr.top,
+  blog:     https://blog.mikedsr.top,
 };
 ```
 
